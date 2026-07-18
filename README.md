@@ -1,7 +1,8 @@
-# idl-season-simulator
-Interactive tool to simulate International Dance League season outcomes — pick match winners and watch standings update live
-
 # IDL Season Outcome Simulator
+
+**Live demo:** [charlenejamiemiciano.github.io/idl-season-simulator](https://charlenejamiemiciano.github.io/idl-season-simulator/)
+
+<img width="1397" height="644" alt="image" src="https://github.com/user-attachments/assets/2d9d93ca-1dbc-4611-9938-f826376a2818" />
 
 An interactive tool that lets users simulate outcomes for the International Dance
 League's 2026 season — pick match winners round by round and watch standings update
